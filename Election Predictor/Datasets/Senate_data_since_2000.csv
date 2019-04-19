@@ -1,0 +1,617 @@
+﻿Election Year,Birth Year,Name,Winner,Incumbent,Party,Home state,Age,candidatevotes,% of the votes,totalvotes
+2016,1934,Richard C. Shelby,TRUE,TRUE,republican,Alabama,,1335104,0.639587936,2087444
+2016,1968,Ron Crumpton,FALSE,FALSE,democrat,Alabama,,748709,0.358672616,2087444
+2016,1957,Lisa Murkowski,TRUE,TRUE,republican,Alaska,,138149,0.443580004,311441
+2016,1967,Joe Miller,FALSE,FALSE,libertarian,Alaska,,90825,0.29162827,311441
+2016,1936,John McCain,TRUE,TRUE,republican,Arizona,,1359267,0.537104709,2530730
+2016,1950,Ann Kirkpatrick,FALSE,FALSE,democrat,Arizona,,1031245,0.407489143,2530730
+2016,1950,John Boozman,TRUE,TRUE,republican,Arkansas,,661984,0.597716343,1107522
+2016,1977,Conner Eldridge,FALSE,FALSE,democrat,Arkansas,,400602,0.361710196,1107522
+2016,1964,Kamala D. Harris,TRUE,NA,democrat,California,,7542753,0.616028118,12244170
+2016,1960,Loretta Sanchez,FALSE,NA,democrat,California,,4701417,0.383971882,12244170
+2016,1964,Michael F. Bennet,TRUE,TRUE,democrat,Colorado,,1370710,0.499707804,2743023
+2016,1965,Darryl Glenn,FALSE,FALSE,republican,Colorado,,1215318,0.443057896,2743023
+2016,1946,Richard Blumenthal,TRUE,TRUE,democrat,Connecticut,,"1,008,714",0.631917037,1596276
+2016,1967,Dan Carter,FALSE,FALSE,republican,Connecticut,,552621,0.346193891,1596276
+2016,1971,Marco Rubio,TRUE,TRUE,republican,Florida,,4835191,0.519811284,9301820
+2016,1983,Patrick Murphy,FALSE,FALSE,democrat,Florida,,4122088,0.443148545,9301820
+2016,1944,Johnny Isakson,TRUE,TRUE,republican,Georgia,,2135806,0.547838522,3898605
+2016,1953,Jim Barksdale,FALSE,FALSE,democrat,Georgia,,1599726,0.410332927,3898605
+2016,1972,Brian Schatz,TRUE,TRUE,democrat,Hawaii,,306604,0.700546538,437664
+2016,1929,John Carroll,FALSE,FALSE,republican,Hawaii,,92653,0.211698929,437664
+2016,1951,Mike Crapo,TRUE,TRUE,republican,Idaho,,449017,0.661347123,678943
+2016,,Jerry Sturgill,FALSE,FALSE,democrat,Idaho,,188249,0.277267753,678943
+2016,1968,Tammy Duckworth,TRUE,FALSE,democrat,Illinois,,3012940,0.548617431,5491878
+2016,1959,Mark Kirk,FALSE,TRUE,republican,Illinois,,2184692,0.397804176,5491878
+2016,1972,Todd C. Young,TRUE,NA,republican,Indiana,,1423991,0.521122426,2732546
+2016,1955,Evan Bayh,FALSE,NA,democrat,Indiana,,1158947,0.424127169,2732546
+2016,1933,Chuck Grassley,TRUE,TRUE,republican,Iowa,,926007,0.600899006,1541036
+2016,1943,Patty Judge,FALSE,FALSE,democrat,Iowa,,549460,0.356552345,1541036
+2016,1954,Jerry Moran,TRUE,TRUE,republican,Kansas,,732376,0.621752544,1177922
+2016,,Patrick Wiesner,FALSE,FALSE,democrat,Kansas,,379740,0.322381278,1177922
+2016,1963,Rand Paul,TRUE,TRUE,republican,Kentucky,,1090177,0.572732885,1903465
+2016,1953,Jim Gray,FALSE,FALSE,democrat,Kentucky,,813246,0.42724505,1903465
+2016,1951,John Kennedy,TRUE,NA,republican,Louisiana,,536191,0.26846894,1997218
+2016,1947,Foster Campbell,FALSE,NA,democrat,Louisiana,,347816,0.174150243,1997218
+2016,1959,Chris Van Hollen,TRUE,NA,democrat,Maryland,,1659907,0.608878757,2726170
+2016,1961,Kathy Szeliga,FALSE,NA,republican,Maryland,,972557,0.356748479,2726170
+2016,1950,Roy Blunt,TRUE,TRUE,republican,Missouri,,1378458,0.491842516,2802641
+2016,1981,Jason Kander,FALSE,FALSE,democrat,Missouri,,1300200,0.463919567,2802641
+2016,1964,Catherine Cortez Masto,TRUE,NA,democrat,Nevada,,521994,0.470988745,1108294
+2016,1961,Joseph J. Heck,FALSE,NA,republican,Nevada,,495079,0.446703672,1108294
+2016,1958,Maggie Hassan,TRUE,FALSE,democrat,New Hampshire,,354649,0.479813026,739140
+2016,1968,Kelly Ayotte,FALSE,TRUE,republican,New Hampshire,,353632,0.478437103,739140
+2016,1950,Charles E. Schumer,TRUE,TRUE,democrat,New York,,4784220,0.613304533,7800725
+2016,1960,Wendy Long,FALSE,FALSE,republican,New York,,1723927,0.220995741,7800725
+2016,1955,Richard Burr,TRUE,TRUE,republican,North Carolina,,2395376,0.510617797,4691133
+2016,1963,Deborah K. Ross,FALSE,FALSE,democrat,North Carolina,,2128165,0.453656931,4691133
+2016,1957,John Hoeven,TRUE,TRUE,republican,North Dakota,,268788,0.78478019,342501
+2016,1938,Eliot Glassheim,FALSE,FALSE,democrat,North Dakota,,58116,0.169681256,342501
+2016,1955,Rob Portman,TRUE,TRUE,republican,Ohio,,3118567,0.580288767,5374164
+2016,1941,Ted Strickland,FALSE,FALSE,democrat,Ohio,,1996908,0.37157556,5374164
+2016,1968,James Lankford,TRUE,TRUE,republican,Oklahoma,,980892,0.677389615,1448047
+2016,,Mike Workman,FALSE,FALSE,democrat,Oklahoma,,355911,0.245786912,1448047
+2016,1949,Ron Wyden,TRUE,TRUE,democrat,Oregon,,1105119,0.566008426,1952478
+2016,1977,Mark Callahan,FALSE,FALSE,republican,Oregon,,651106,0.333476741,1952478
+2016,1961,Patrick J. Toomey,TRUE,TRUE,republican,Pennsylvania,,2951702,0.487735002,6051856
+2016,1963,Katie McGinty,FALSE,FALSE,democrat,Pennsylvania,,2865012,0.473410471,6051856
+2016,1965,Tim Scott,TRUE,TRUE,republican,South Carolina,,1241609,0.605694541,2049893
+2016,1952,Thomas Dixon,FALSE,FALSE,democrat,South Carolina,,704540,0.343695988,2049893
+2016,1961,John R. Thune,TRUE,TRUE,republican,South Dakota,,265516,0.718278616,369656
+2016,,Jay Williams,FALSE,FALSE,democrat,South Dakota,,104140,0.281721384,369656
+2016,1971,Mike Lee,TRUE,TRUE,republican,Utah,,760220,0.681455347,1115583
+2016,1985,Misty K. Snow,FALSE,FALSE,democrat,Utah,,301858,0.270583184,1115583
+2016,1940,Patrick J. Leahy,TRUE,TRUE,democrat,Vermont,,192243,0.599883919,320467
+2016,1959,Scott Milne,FALSE,FALSE,republican,Vermont,,103637,0.323393672,320467
+2016,1950,Patty Murray,TRUE,TRUE,democrat,Washington,,1913979,0.590130104,3243317
+2016,1962,Chris Vance,FALSE,FALSE,republican,Washington,,1329338,0.409869896,3243317
+2016,1955,Ron Johnson,TRUE,TRUE,republican,Wisconsin,,1479471,0.501729721,2948741
+2016,1953,uss Feingold,FALSE,FALSE,democrat,Wisconsin,,1380335,0.468109949,2948741
+2014,,Jeff Sessions,TRUE,,republican,Alabama,,795606,0.972516471,818090
+2014,,Dan Sullivan,TRUE,,republican,Alaska,,135445,0.479621105,282400
+2014,,Mark Begich,FALSE,,democrat,Alaska,,129431,0.458325071,282400
+2014,,Tom Cotton,TRUE,,republican,Arkansas,,478819,0.564974838,847505
+2014,,Mark L. Pryor,FALSE,,democrat,Arkansas,,334174,0.394303278,847505
+2014,,Cory Gardner,TRUE,,republican,Colorado,,983891,0.482049506,2041058
+2014,,Mark Udall,FALSE,,democrat,Colorado,,944203,0.462604688,2041058
+2014,,Christopher A. Coons,TRUE,,democrat,Delaware,,130655,0.558264043,234038
+2014,,Kevin Wade,FALSE,,republican,Delaware,,98823,0.422251942,234038
+2014,,David A. Perdue,TRUE,,republican,Georgia,,1358088,0.528890628,2567805
+2014,,M. Michelle Nunn,FALSE,,democrat,Georgia,,1160811,0.452063533,2567805
+2014,,Brian Schatz,TRUE,,democrat,Hawaii,,246827,0.667635913,369703
+2014,,Cam Cavasso,FALSE,,republican,Hawaii,,98006,0.265093873,369703
+2014,,James E. Risch,TRUE,,republican,Idaho,,285596,0.65328362,437170
+2014,,Nels Mitchell,FALSE,,democrat,Idaho,,151574,0.34671638,437170
+2014,,Richard J. Durbin,TRUE,,democrat,Illinois,,1929637,0.535486839,3603519
+2014,,"James D. ""Jim"" Oberweis",FALSE,,republican,Illinois,,1538522,0.426949879,3603519
+2014,,Joni Ernst,TRUE,,republican,Iowa,,588575,0.521001151,1129700
+2014,,Bruce Braley,FALSE,,democrat,Iowa,,494370,0.437611755,1129700
+2014,,Pat Roberts,TRUE,,republican,Kansas,,460350,0.531464769,866191
+2014,,Greg Orman,FALSE,,independent,Kansas,,368372,0.425278028,866191
+2014,,Mich McConnell,TRUE,,republican,Kentucky,,806787,0.561881036,1435868
+2014,,Alison Lundergan Grimes,FALSE,,democrat,Kentucky,,584698,0.407208741,1435868
+2014,,Bill Cassidy,TRUE,,republican,Louisiana,,1712379,0.486031807,3523183
+2014,,Mary L. Landrieu,FALSE,,democrat,Louisiana,,1561210,0.443124867,3523183
+2014,,Susan M. Collins,TRUE,,republican,Maine,,413505,0.670190731,616996
+2014,,Shenna Bellows,FALSE,,democrat,Maine,,190254,0.308355322,616996
+2014,,Edward J. Markey,TRUE,,democrat,Massachusetts,,1289944,0.589880414,2186789
+2014,,Brian J. Herr,FALSE,,republican,Massachusetts,,791950,0.362151995,2186789
+2014,,Gary C. Peters,TRUE,,democrat,Michigan,,1704936,0.54614384,3121771
+2014,,Terri Lynn Land,FALSE,,republican,Michigan,,1290199,0.413290725,3121771
+2014,,Al Franken,TRUE,,democrat,Minnesota,,1053205,0.531511541,1981528
+2014,,Mike McFadden,FALSE,,republican,Minnesota,,850227,0.42907645,1981528
+2014,,Thad Cochran,TRUE,,republican,Mississippi,,378481,0.598996927,631858
+2014,,Travis W. Childers,FALSE,,democrat,Mississippi,,239439,0.37894432,631858
+2014,,Steve Daines,TRUE,,republican,Montana,,213709,0.577863644,369826
+2014,,Amanda Curtis,FALSE,,democrat,Montana,,148184,0.400685728,369826
+2014,,Ben Sasse,TRUE,,republican,Nebraska,,347636,0.643368861,540337
+2014,,Dave Domina,FALSE,,democrat,Nebraska,,170127,0.314853508,540337
+2014,,Jeanne Shaheen,TRUE,,democrat,New Hampshire,,251184,0.51455366,488159
+2014,,Scott P. Brown,FALSE,,republican,New Hampshire,,235347,0.482111361,488159
+2014,,Cory A. Booker,TRUE,,democrat,New Jersey,,1043866,0.558355955,1869535
+2014,,Jeff Bell,FALSE,,republican,New Jersey,,791297,0.423258725,1869535
+2014,,Tom Udall,TRUE,,democrat,New Mexico,,286409,0.555588102,515506
+2014,,Allen E. Weh,FALSE,,republican,New Mexico,,229097,0.444411898,515506
+2014,,Thom Tillis,TRUE,,republican,North Carolina,,1423259,0.488206454,2915281
+2014,,Kay R. Hagan,FALSE,,democrat,North Carolina,,1377651,0.472561993,2915281
+2014,,James Lankford,TRUE,,republican,Oklahoma,,557002,0.678534274,820890
+2014,,Connie Johnson,FALSE,,democrat,Oklahoma,,237923,0.289835423,820890
+2014,,James M. Inhofe,TRUE,,republican,Oklahoma,,558166,0.680082317,820733
+2014,,Matt Silverstein,FALSE,,democrat,Oklahoma,,234307,0.285485048,820733
+2014,,Jeff Merkley,TRUE,,democrat,Oregon,,814537,0.557284461,1461618
+2014,,Monica Wehby,FALSE,,republican,Oregon,,538847,0.368664726,1461618
+2014,,Jack Reed,TRUE,,democrat,Rhode Island,,223675,0.70582648,316898
+2014,,Mark S. Zaccaria,FALSE,,republican,Rhode Island,,92684,0.292472657,316898
+2014,,Lindsey Graham,TRUE,TRUE,republican,South Carolina,,672941,0.542661533,1240075
+2014,,Brad Hutto,FALSE,FALSE,democrat,South Carolina,,456726,0.368305143,1240075
+2014,,Tim Scott,TRUE,TRUE,republican,South Carolina,,757215,0.611159,1238982
+2014,,Joyce Dickerson,FALSE,FALSE,democrat,South Carolina,,459583,0.370935978,1238982
+2014,,Mike Rounds,TRUE,,republican,South Dakota,,140741,0.503704207,279412
+2014,,Rick Weiland,FALSE,,democrat,South Dakota,,82456,0.295105436,279412
+2014,,Lamar Alexander,TRUE,,republican,Tennessee,,850087,0.618665784,1374065
+2014,,Gordon Ball,FALSE,,democrat,Tennessee,,437848,0.318651592,1374065
+2014,,John Cornyn,TRUE,,republican,Texas,,2861531,0.615600391,4648358
+2014,,David M. Alameel,FALSE,,democrat,Texas,,1597387,0.343645434,4648358
+2014,,Mark R. Warner,TRUE,,democrat,Virginia,,1073667,0.491499323,2184473
+2014,,Ed. W. Gillespie,FALSE,,republican,Virginia,,1055940,0.483384322,2184473
+2014,,Shelley Moore Capito,TRUE,,republican,West Virginia,,281820,0.621174417,453689
+2014,,Natalie Tennant,FALSE,,democrat,West Virginia,,156360,0.344641373,453689
+2014,,Michael B. Enzi,TRUE,,republican,Wyoming,,121554,0.710206657,171153
+2014,,Charlie Hardy,FALSE,,democrat,Wyoming,,29377,0.171641747,171153
+2012,,Jeff Flake,TRUE,,republican,Arizona,,1104457,0.492309071,2243422
+2012,,Richard Carmona,FALSE,,democrat,Arizona,,1036542,0.462036122,2243422
+2012,,Dianne Feinstein,TRUE,,democrat,California,,7864624,0.625242845,12578511
+2012,,Elizabeth Emken,FALSE,,republican,California,,4713887,0.374757155,12578511
+2012,,Christopher S. Murphy,TRUE,,democrat,Connecticut,,792983,0.524541529,1511764
+2012,,Linda E. McMahon,FALSE,,republican,Connecticut,,604569,0.399909642,1511764
+2012,,Thomas R. Carper,TRUE,,democrat,Delaware,,265415,0.664191729,399606
+2012,,Kevin Wade,FALSE,,republican,Delaware,,115700,0.289535192,399606
+2012,,Bill Nelson,TRUE,,democrat,Florida,,4523451,0.552317561,8189946
+2012,,Connie Mack,FALSE,,republican,Florida,,3458267,0.422257607,8189946
+2012,,Mazie K. Hirono,TRUE,,democrat,Hawaii,,269489,0.61645534,437159
+2012,,Linda Lingle,FALSE,,republican,Hawaii,,160994,0.368273328,437159
+2012,,Joe Donnelly,TRUE,,democrat,Indiana,,1281181,0.500441389,2560102
+2012,,Richard E. Mourdock,FALSE,,republican,Indiana,,1133621,0.44280306,2560102
+2012,,Angus King,TRUE,,,Maine,,370580,0.511342312,724720
+2012,,"Charles E. Summers, Jr.",FALSE,,,Maine,,215399,0.297216856,724720
+2012,,Benjamin L. Cardin,TRUE,,democrat,Maryland,,1474028,0.559778584,2633234
+2012,,Daniel John Bongino,FALSE,,republican,Maryland,,693291,0.263284995,2633234
+2012,,Elizabeth A. Warren,TRUE,,democrat,Massachusetts,,1696346,0.532739191,3184196
+2012,,Scott P. Brown,FALSE,,republican,Massachusetts,,1458048,0.457901461,3184196
+2012,,Debbie Stabenow,TRUE,,democrat,Michigan,,2735826,0.587980704,4652918
+2012,,Pete Hoekstra,FALSE,,republican,Michigan,,1767386,0.379844648,4652918
+2012,,Amy Klobuchar,TRUE,,democrat,Minnesota,,1854595,0.652289826,2843207
+2012,,Kurt Bills,FALSE,,republican,Minnesota,,867974,0.305279918,2843207
+2012,,Roger F. Wicker,TRUE,,republican,Mississippi,,709626,0.57155629,1241568
+2012,,"Albert N. Gore, Jr.",FALSE,,democrat,Mississippi,,503467,0.405509002,1241568
+2012,,Claire McCaskill,TRUE,,democrat,Missouri,,1494125,0.548143238,2725793
+2012,,W. Todd Akin,FALSE,,republican,Missouri,,1066159,0.391137185,2725793
+2012,,Jon Tester,TRUE,,democrat,Montana,,236123,0.485783824,486066
+2012,,Denny Rehberg,FALSE,,republican,Montana,,218051,0.448603688,486066
+2012,,Deb Fischer,TRUE,,republican,Nebraska,,455593,0.577744328,788572
+2012,,Bob Kerrey,FALSE,,democrat,Nebraska,,332979,0.422255672,788572
+2012,,Dean Heller,TRUE,,republican,Nevada,,457656,0.458662765,997805
+2012,,Shelley Berkley,FALSE,,democrat,Nevada,,446080,0.4470613,997805
+2012,,Robert Menendez,TRUE,,democrat,New Jersey,,1987680,0.58865461,3376649
+2012,,Joe Kyrillos,FALSE,,republican,New Jersey,,1329534,0.39374362,3376649
+2012,,Martin Heinrich,TRUE,,democrat,New Mexico,,395717,0.510080653,775793
+2012,,Heather A. Wilson,FALSE,,republican,New Mexico,,351260,0.452775418,775793
+2012,,Kirsten E. Gillibrand,TRUE,,democrat,New York,,4420043,0.6210867,7116628
+2012,,Wendy Long,FALSE,,republican,New York,,1514647,0.212832117,7116628
+2012,,Heidi Heitkamp,TRUE,,democrat,North Dakota,,161337,0.502382109,321144
+2012,,Rick Berg,FALSE,,republican,North Dakota,,158401,0.493239793,321144
+2012,,Sherrod Brown,TRUE,,democrat,Ohio,,2762690,0.507006951,5449018
+2012,,Josh Mandel,FALSE,,republican,Ohio,,2435712,0.447000175,5449018
+2012,,"Robert P. Casey, Jr.",TRUE,,democrat,Pennsylvania,,3021364,0.5369002,5627422
+2012,,Tom Smith,FALSE,,republican,Pennsylvania,,2509132,0.445875927,5627422
+2012,,Sheldon Whitehouse,TRUE,,democrat,Rhode Island,,271034,0.648113652,418189
+2012,,Benjamin Barrett Hinckley III,FALSE,,republican,Rhode Island,,146222,0.349655299,418189
+2012,,Bob Corker,TRUE,,republican,Tennessee,,1506443,0.648915755,2321477
+2012,,Mark E. Clayton,FALSE,,democrat,Tennessee,,705882,0.304065903,2321477
+2012,,Ted Cruz,TRUE,,republican,Texas,,4440137,0.564556579,7864822
+2012,,Paul Sadler,FALSE,,democrat,Texas,,3194927,0.406230046,7864822
+2012,,Orrin G. Hatch,TRUE,,republican,Utah,,657608,0.65310095,1006901
+2012,,Scott Howell,FALSE,,democrat,Utah,,301873,0.299804052,1006901
+2012,,Bernard Sanders,TRUE,,independent,Vermont,,207848,0.709955527,292762
+2012,,John MacGovern,FALSE,,republican,Vermont,,72898,0.249000895,292762
+2012,,Timothy M. Kaine,TRUE,,democrat,Virginia,,2010067,0.52865949,3802196
+2012,,George F. Allen,FALSE,,republican,Virginia,,1785542,0.46960809,3802196
+2012,,Maria Cantwell,TRUE,,democrat,Washington,,1855493,0.604509912,3069417
+2012,,Michael Baumgartner,FALSE,,republican,Washington,,1213924,0.395490088,3069417
+2012,,Joe Manchin III,TRUE,,democrat,West Virginia,,399898,0.605720673,660202
+2012,,John R. Raese,FALSE,,republican,West Virginia,,240787,0.364717162,660202
+2012,,Tammy Baldwin,TRUE,,democrat,Wisconsin,,1547104,0.514088637,3009411
+2012,,Tommy G. Thompson,FALSE,,republican,Wisconsin,,1380126,0.458603361,3009411
+2012,,John Barrasso,TRUE,,republican,Wyoming,,185250,0.738930993,250700
+2012,,Tim Chesnut,FALSE,,democrat,Wyoming,,53019,0.211483845,250700
+2010,1934,Richard C. Shelby,TRUE,TRUE,republican,Alabama,,968181,0.652501011,1483800
+2010,,William G. Barnes,FALSE,,democrat,Alabama,,515619,0.347498989,1483800
+2010,1957,Lisa Murkowski,TRUE,TRUE,,Alaska,,101091,0.395654846,255503
+2010,1967,Joe Miller,FALSE,,republican,Alaska,,90839,0.355530072,255503
+2010,1936,John McCain,TRUE,TRUE,republican,Arizona,,1005615,0.588600771,1708484
+2010,,Rodney Glassman,FALSE,,democrat,Arizona,,592011,0.346512464,1708484
+2010,1950,John Boozman,TRUE,FALSE,republican,Arkansas,,451618,0.579029357,779957
+2010,,Blanche L. Lincoln,FALSE,,democrat,Arkansas,,288156,0.369451136,779957
+2010,,Barbara Boxer,TRUE,,democrat,California,,5218441,0.521835751,10000160
+2010,,Carly Fiorina,FALSE,,republican,California,,4217366,0.421729852,10000160
+2010,,Michael F. Bennet,TRUE,,democrat,Colorado,,851590,0.480503711,1772286
+2010,,Ken Buck,FALSE,,republican,Colorado,,822731,0.464220222,1772286
+2010,,Richard Blumenthal,TRUE,,democrat,Connecticut,,605204,0.524842709,1153115
+2010,,Linda E. McMahon,FALSE,,republican,Connecticut,,498341,0.432169385,1153115
+2010,,Christopher A. Coons,TRUE,,democrat,Delaware,,174012,0.56607309,307402
+2010,,Christine O'Donnell,FALSE,,republican,Delaware,,123053,0.400299933,307402
+2010,,Marco Rubio,TRUE,,republican,Florida,,2645743,0.488946807,5411106
+2010,,Charlie Crist,FALSE,,no party affiliation,Florida,,1607549,0.297083258,5411106
+2010,,Johnny Isakson,TRUE,,republican,Georgia,,1489904,0.583073803,2555258
+2010,,"Michael ""Mike"" Thurmond",FALSE,,democrat,Georgia,,996516,0.389986451,2555258
+2010,,Daniel K. Inouye,TRUE,,democrat,Hawaii,,277228,0.748086124,370583
+2010,,Cam Cavasso,FALSE,,republican,Hawaii,,79939,0.21571146,370583
+2010,,Mike Crapo,TRUE,,republican,Idaho,,319953,0.71175005,449530
+2010,,P. Tom Sullivan,FALSE,,democrat,Idaho,,112057,0.24927591,449530
+2010,,Mark Steven Kirk,TRUE,,republican,Illinois,,1778698,0.480148728,3704473
+2010,,"Alexander ""Alexi"" Giannoulias",FALSE,,democrat,Illinois,,1719478,0.464162649,3704473
+2010,,Dan Coats,TRUE,,republican,Indiana,,952116,0.545787544,1744481
+2010,,Brad Ellsworth,FALSE,,democrat,Indiana,,697775,0.399990026,1744481
+2010,,Chuck Grassley,TRUE,,republican,Iowa,,718215,0.6435255,1116063
+2010,,Roxanne Conlin,FALSE,,democrat,Iowa,,371686,0.333033171,1116063
+2010,,Jerry Moran,TRUE,,republican,Kansas,,587175,0.700943784,837692
+2010,,Lisa Johnston,FALSE,,democrat,Kansas,,220971,0.263785496,837692
+2010,,Rand Paul,TRUE,,republican,Kentucky,,755706,0.557265857,1356096
+2010,,Jack Conway,FALSE,,democrat,Kentucky,,600052,0.442484898,1356096
+2010,,David Vitter,TRUE,,republican,Louisiana,,715415,0.565548137,1264994
+2010,,"""Charlie"" Melancon",FALSE,,democrat,Louisiana,,476572,0.376738546,1264994
+2010,,Barbara Mikulski,TRUE,,democrat,Maryland,,1140531,0.621929833,1833858
+2010,,Eric Wargotz,FALSE,,republican,Maryland,,655666,0.35753368,1833858
+2010,,Roy Blunt,TRUE,,republican,Missouri,,1054160,0.542291549,1943899
+2010,,Robin Carnahan,FALSE,,democrat,Missouri,,789736,0.406263906,1943899
+2010,,Harry Reid,TRUE,,democrat,Nevada,,362785,0.502887425,721404
+2010,,Sharron Angle,FALSE,,republican,Nevada,,321361,0.445466063,721404
+2010,,Kelly Ayotte,TRUE,,republican,New Hampshire,,273218,0.600862088,454710
+2010,,Paul W. Hodes,FALSE,,democrat,New Hampshire,,167545,0.368465615,454710
+2010,,Charles E. Schumer,TRUE,TRUE,democrat,New York,,3047880,0.639786864,4763899
+2010,,Jay Townsend,FALSE,FALSE,republican,New York,,1239605,0.260208077,4763899
+2010,,Kirsten E. Gillibrand,TRUE,TRUE,democrat,New York,,2837684,0.596448445,4757635
+2010,,Joseph J. DioGuardi,FALSE,FALSE,republican,New York,,1338308,0.281296905,4757635
+2010,,Richard Burr,TRUE,,republican,North Carolina,,1458046,0.548121315,2660079
+2010,,Elaine Marshall,FALSE,,democrat,North Carolina,,1145074,0.430466163,2660079
+2010,,John Hoeven,TRUE,,republican,North Dakota,,181689,0.761690157,238534
+2010,,Tracy Potter,FALSE,,democratic-nonpartisan league,North Dakota,,52955,0.222001895,238534
+2010,,Rob Portman,TRUE,,republican,Ohio,,2168742,0.568462986,3815098
+2010,,Lee Fisher,FALSE,,democrat,Ohio,,1503297,0.394038895,3815098
+2010,,Thomas A. Coburn,TRUE,,republican,Oklahoma,,718482,0.706367098,1017151
+2010,,Jim Rogers,FALSE,,democrat,Oklahoma,,265814,0.261331897,1017151
+2010,,Ron Wyden,TRUE,,democrat,Oregon,,825507,0.572240307,1442588
+2010,,Jim Huffman,FALSE,,republican,Oregon,,566199,0.392488361,1442588
+2010,,Pat Toomey,TRUE,,republican,Pennsylvania,,2028945,0.510084947,3977661
+2010,,Joe Sestak,FALSE,,democrat,Pennsylvania,,1948716,0.489915053,3977661
+2010,,Jim DeMint,TRUE,,republican,South Carolina,,810771,0.614782142,1318794
+2010,,Alvin M. Greene,FALSE,,democrat,South Carolina,,364598,0.276463193,1318794
+2010,,John Thune,TRUE,,republican,South Dakota,,227947,1,227947
+2010,,Mike Lee,TRUE,,republican,Utah,,360403,0.615831383,585230
+2010,,Sam F. Granato,FALSE,,democrat,Utah,,191732,0.327618201,585230
+2010,,Patrick J. Leahy,TRUE,,democrat,Vermont,,151281,0.6432617,235178
+2010,,Len Britton,FALSE,,republican,Vermont,,72699,0.309123302,235178
+2010,,Patty Murray,TRUE,,democrat,Washington,,1314930,0.523648258,2511094
+2010,,Dino Rossi,FALSE,,republican,Washington,,1196164,0.476351742,2511094
+2010,,Joe Manchin III,TRUE,,democrat,West Virginia,,283358,0.534690196,529948
+2010,,John R. Raese,FALSE,,republican,West Virginia,,230013,0.434029376,529948
+2010,,Ron Johnson,TRUE,,republican,Wisconsin,,1125999,0.518575473,2171331
+2010,,Russell D. Feingold,FALSE,,democrat,Wisconsin,,1020958,0.470199154,2171331
+2008,,Jeff Sessions,TRUE,,republican,Alabama,,1305383,0.633622319,2060191
+2008,,Vivian Davis Figures,FALSE,,democrat,Alabama,,752391,0.365204488,2060191
+2008,,Mark Begich,TRUE,,democrat,Alaska,,151767,0.477670801,317723
+2008,,Ted Stevens,FALSE,,republican,Alaska,,147814,0.465229146,317723
+2008,,Mark L. Pryor,TRUE,,democrat,Arkansas,,804678,0.795329695,1011754
+2008,,Rebekah Kennedy,FALSE,,green,Arkansas,,207076,0.204670305,1011754
+2008,,Mark Udall,TRUE,,democrat,Colorado,,1230994,0.527956302,2331621
+2008,,Bob Schaffer,FALSE,,republican,Colorado,,990755,0.424921117,2331621
+2008,,Joseph R. Biden Jr.,TRUE,,democrat,Delaware,,257539,0.646865126,398134
+2008,,Christine O'Donnell,FALSE,,republican,Delaware,,140595,0.353134874,398134
+2008,,Saxby Chambliss,TRUE,TRUE,republican,Georgia,,1867097,0.497562815,3752485
+2008,,Jim Martin,FALSE,FALSE,democrat,Georgia,,1757393,0.468327788,3752485
+2008,,Jim Risch,TRUE,,republican,Idaho,,371744,0.576543937,644780
+2008,,Larry LaRocco,FALSE,,democrat,Idaho,,219903,0.341051211,644780
+2008,,Richard J. Durbin,TRUE,,democrat,Illinois,,3615844,0.678409511,5329884
+2008,,Steve Sauerberg,FALSE,,republican,Illinois,,1520621,0.285300956,5329884
+2008,,Tom Harkin,TRUE,,democrat,Iowa,,941665,0.626557803,1502918
+2008,,Christopher Reed,FALSE,,republican,Iowa,,560006,0.372612478,1502918
+2008,,Pat Roberts,TRUE,,republican,Kansas,,727121,0.600583965,1210690
+2008,,Jim Slattery,FALSE,,democrat,Kansas,,441399,0.364584658,1210690
+2008,,Mitch McConnell,TRUE,,republican,Kentucky,,953816,0.529656196,1800821
+2008,,Bruce Lunsford,FALSE,,democrat,Kentucky,,847005,0.470343804,1800821
+2008,,Mary L. Landrieu,FALSE,,democrat,Louisiana,,988298,0.521096461,1896574
+2008,,John Kennedy,FALSE,,republican,Louisiana,,867177,0.457233411,1896574
+2008,,Susan M. Collins,TRUE,,republican,Maine,,444300,0.613309775,724430
+2008,,Thomas H. Allen,FALSE,,democrat,Maine,,279510,0.38583438,724430
+2008,,John F. Kerry,TRUE,,democrat,Massachusetts,,1971974,0.635506664,3102995
+2008,,Jeffrey K. Beatty,FALSE,,republican,Massachusetts,,926044,0.298435544,3102995
+2008,,Carl Levin,TRUE,,democrat,Michigan,,3038386,0.626649645,4848620
+2008,,Jack Hoogendyk,FALSE,,republican,Michigan,,1641070,0.338461253,4848620
+2008,,Al Franken,TRUE,,democrat,Minnesota,,1212629,0.419936862,2887646
+2008,,Norm Coleman,FALSE,,republican,Minnesota,,1212317,0.419828816,2887646
+2008,,Thad Cochran,FALSE,,republican,Mississippi,,766111,0.614350463,1247026
+2008,,Erik Fleming,FALSE,,democrat,Mississippi,,480915,0.385649537,1247026
+2008,,Roger F. Wicker,TRUE,,republican,Mississippi,,683409,0.549596976,1243473
+2008,,Ronnie Musgrove,FALSE,,no party affiliation,Mississippi,,560064,0.450403024,1243473
+2008,,Max Baucus,TRUE,,democrat,Montana,,348289,0.729159775,477658
+2008,,Bob Kelleher,FALSE,,republican,Montana,,129369,0.270840225,477658
+2008,,Mike Johanns,TRUE,,republican,Nebraska,,455854,0.575202111,792511
+2008,,Scott Kleeb,FALSE,,democrat,Nebraska,,317456,0.400569834,792511
+2008,,Jeanne Shaheen,TRUE,,democrat,New Hampshire,,358438,0.515896239,694787
+2008,,John E. Sununu,FALSE,,republican,New Hampshire,,314403,0.452517102,694787
+2008,,Frank R. Lautenberg,TRUE,,democrat,New Jersey,,1951218,0.560301168,3482445
+2008,,Dick Zimmer,FALSE,,republican,New Jersey,,1461025,0.419540007,3482445
+2008,,Tom Udall,TRUE,,democrat,New Mexico,,505128,0.613279913,823650
+2008,,Steve Pearce,FALSE,,republican,New Mexico,,318522,0.386720087,823650
+2008,,Kay Hagan,TRUE,,democrat,North Carolina,,2249311,0.526527808,4271970
+2008,,Elizabeth Dole,FALSE,,republican,North Carolina,,1887510,0.441835968,4271970
+2008,,James M. Inhofe,TRUE,,republican,Oklahoma,,763375,0.566798508,1346819
+2008,,Andrew Rice,FALSE,,democrat,Oklahoma,,527736,0.391838844,1346819
+2008,,Jeff Merkley,TRUE,,democrat,Oregon,,864392,0.489046701,1767504
+2008,,Gordon H. Smith,FALSE,,republican,Oregon,,805159,0.455534471,1767504
+2008,,Jack Reed,TRUE,,democrat,Rhode Island,,320644,0.730709279,438812
+2008,,Robert G. Tingle,FALSE,,republican,Rhode Island,,116174,0.264746634,438812
+2008,,Lindsey Graham,TRUE,,republican,South Carolina,,1076534,0.575246429,1871431
+2008,,Bob Conley,FALSE,,democrat,South Carolina,,790621,0.422468688,1871431
+2008,,Tim Johnson,TRUE,,democrat,South Dakota,,237889,0.624916923,380673
+2008,,Joel Dykstra,FALSE,,republican,South Dakota,,142784,0.375083077,380673
+2008,,Lamar Alexander,TRUE,,republican,Tennessee,,1579477,0.651442206,2424585
+2008,,Robert D. Tuke,FALSE,,democrat,Tennessee,,767236,0.316440133,2424585
+2008,,John Cornyn,TRUE,,republican,Texas,,4337469,0.548208782,7912075
+2008,,"Richard J. ""Rick"" Noriega",FALSE,,democrat,Texas,,3389365,0.428378775,7912075
+2008,,Mark R. Warner,TRUE,,democrat,Virginia,,2369327,0.650325502,3643294
+2008,,"James S. ""Jim"" Gilmore III",FALSE,,republican,Virginia,,1228830,0.337285435,3643294
+2008,,John D. Rockefeller IV,TRUE,,democrat,West Virginia,,447560,0.637270257,702308
+2008,,Jay Wolfe,FALSE,,republican,West Virginia,,254629,0.362560301,702308
+2008,,Michael B. Enzi,TRUE,TRUE,republican,Wyoming,,189046,0.756162827,250007
+2008,,Chris Rothfuss,FALSE,FALSE,democrat,Wyoming,,60631,0.24251721,250007
+2008,,John Barrasso,TRUE,TRUE,republican,Wyoming,,183063,0.733369655,249619
+2008,,Nick Carter,FALSE,FALSE,democrat,Wyoming,,66202,0.265212183,249619
+2006,,Jon Kyl,TRUE,,republican,Arizona,,814398,0.533408175,1526782
+2006,,Jim Pederson,FALSE,,democrat,Arizona,,664141,0.434993994,1526782
+2006,,Dianne Feinstein,TRUE,,democrat,California,,5076289,0.594310515,8541476
+2006,,"Richard ""Dick"" Mountjoy",FALSE,,republican,California,,2990822,0.350152831,8541476
+2006,,Joseph I. Lieberman,TRUE,,connecticut for lieberman,Connecticut,,564095,0.497097668,1134777
+2006,,Ned Lamont,FALSE,,democrat,Connecticut,,450844,0.397297443,1134777
+2006,,Thomas R. Carper,TRUE,,democrat,Delaware,,170567,0.7020027,242972
+2006,,Jan Ting,FALSE,,republican,Delaware,,69734,0.287004264,242972
+2006,,Bill Nelson,TRUE,,democrat,Florida,,2890548,0.603009804,4793534
+2006,,Katherine Harris,FALSE,,republican,Florida,,1826127,0.380956305,4793534
+2006,,Daniel K. Akaka,TRUE,,democrat,Hawaii,,210330,0.613489596,342842
+2006,,Cynthia Thielen,FALSE,,republican,Hawaii,,126097,0.367799161,342842
+2006,,Richard G. Lugar,TRUE,,republican,Indiana,,1171553,0.873569004,1341111
+2006,,Steve Osborn,FALSE,,libertarian,Indiana,,168820,0.125880706,1341111
+2006,,Olympia J. Snowe,TRUE,,republican,Maine,,405596,0.744038097,545128
+2006,,Jean M. Hay Bright,FALSE,,democrat,Maine,,113131,0.207531075,545128
+2006,,Benjamin L. Cardin,TRUE,,democrat,Maryland,,965477,0.542055954,1781139
+2006,,Michael S. Steele,FALSE,,republican,Maryland,,787182,0.441954278,1781139
+2006,,Edward M. Kennedy,TRUE,,democrat,Massachusetts,,1500738,0.668827253,2243835
+2006,,Kenneth G. Chase,FALSE,,republican,Massachusetts,,661532,0.294822035,2243835
+2006,,Debbie Stabenow,TRUE,,democrat,Michigan,,2151278,0.569099785,3780142
+2006,,Michael Bouchard,FALSE,,republican,Michigan,,1559597,0.4125763,3780142
+2006,,Amy Klobuchar,TRUE,,democratic-farmer-labor,Minnesota,,1278849,0.58056349,2202772
+2006,,Mark R. Kennedy,FALSE,,republican,Minnesota,,835653,0.379364274,2202772
+2006,,Trent Lott,TRUE,,republican,Mississippi,,388399,0.635759779,610921
+2006,,Erik R. Fleming,FALSE,,democrat,Mississippi,,213000,0.348653918,610921
+2006,,Claire McCaskill,TRUE,,democrat,Missouri,,1055255,0.495783569,2128459
+2006,,James M. Talent,FALSE,,republican,Missouri,,1006941,0.473084518,2128459
+2006,,Jon Tester,TRUE,,democrat,Montana,,199845,0.491617569,406505
+2006,,Conrad Burns,FALSE,,republican,Montana,,196283,0.482855069,406505
+2006,,E. Benjamin Nelson,TRUE,,democrat,Nebraska,,378388,0.638827923,592316
+2006,,Pete Ricketts,FALSE,,republican,Nebraska,,213928,0.361172077,592316
+2006,,John Ensign,TRUE,,republican,Nevada,,322501,0.55358136,582572
+2006,,Jack Carter,FALSE,,democrat,Nevada,,238796,0.409899549,582572
+2006,,Robert Menendez,TRUE,,democrat,New Jersey,,1200843,0.533691396,2250070
+2006,,"Thomas H. Kean, Jr.",FALSE,,republican,New Jersey,,997775,0.44344176,2250070
+2006,,Jeff Bingaman,TRUE,,democrat,New Mexico,,394365,0.706051383,558550
+2006,,Allen W. McCulloch,FALSE,,republican,New Mexico,,163826,0.293305881,558550
+2006,,Hillary Rodham Clinton,TRUE,,democrat,New York,,2698931,0.574163432,4700632
+2006,,John Spencer,FALSE,,republican,New York,,1212902,0.258029559,4700632
+2006,,Kent Conrad,TRUE,,democrat,North Dakota,,150146,0.688263229,218152
+2006,,Dwight Grotberg,FALSE,,republican,North Dakota,,64417,0.295284939,218152
+2006,,Sherrod Brown,TRUE,,democrat,Ohio,,2257369,0.561641317,4019236
+2006,,Mike DeWine,FALSE,,republican,Ohio,,1761037,0.438152176,4019236
+2006,,"Bob Casey, Jr.",FALSE,,democrat,Pennsylvania,,2392984,0.586365789,4081043
+2006,,Rick Santorum,TRUE,,republican,Pennsylvania,,1684778,0.41283025,4081043
+2006,,Sheldon Whitehouse,FALSE,,democrat,Rhode Island,,206043,0.535186354,384993
+2006,,Lincoln Chafee,FALSE,,republican,Rhode Island,,178950,0.464813646,384993
+2006,,Bob Corker,TRUE,,republican,Tennessee,,929911,0.50712414,1833695
+2006,,"Harold E. Ford, Jr.",FALSE,,democrat,Tennessee,,879976,0.479892239,1833695
+2006,,Kay Bailey Hutchison,TRUE,,republican,Texas,,2661789,0.616917011,4314663
+2006,,Barbara Ann Radnofsky,FALSE,,democrat,Texas,,1555202,0.360445764,4314663
+2006,,Orrin G. Hatch,TRUE,,republican,Utah,,356238,0.623609195,571252
+2006,,Pete Ashdown,FALSE,,democrat,Utah,,177459,0.310649241,571252
+2006,,Bernard Sanders,TRUE,,independent,Vermont,,171638,0.654060872,262419
+2006,,Rich Tarrant,FALSE,,republican,Vermont,,84924,0.32361986,262419
+2006,,"James H. ""Jim"" Webb, Jr.",TRUE,,democrat,Virginia,,1175606,0.495943167,2370445
+2006,,George Allen,FALSE,,republican,Virginia,,1166277,0.492007619,2370445
+2006,,Maria Cantwell,TRUE,,democrat,Washington,,1184659,0.568526981,2083734
+2006,,Mike McGavick,FALSE,,republican,Washington,,832106,0.39933408,2083734
+2006,,Robert C. Byrd,TRUE,,democrat,West Virginia,,159154,0.770490216,206562
+2006,,John R. Raese,FALSE,,republican,West Virginia,,47408,0.229509784,206562
+2006,,Herb Kohl,TRUE,,democrat,Wisconsin,,1439214,0.673065528,2138297
+2006,,Robert Gerald Lorge,FALSE,,republican,Wisconsin,,630299,0.294766817,2138297
+2006,,Craig Thomas,TRUE,,republican,Wyoming,,135174,0.688907576,196215
+2006,,Dale Groutage,FALSE,,democrat,Wyoming,,57671,0.293917387,196215
+2004,1934,Richard C. Shelby,TRUE,TRUE,republican,Alabama,,1242200,0.675451561,1839066
+2004,,Wayne Sowell,FALSE,,democrat,Alabama,,595018,0.323543581,1839066
+2004,1957,Lisa Murkowski,TRUE,TRUE,republican,Alaska,,149773,0.485779154,308315
+2004,,Tony Knowles,FALSE,,democrat,Alaska,,140424,0.45545627,308315
+2004,1936,John McCain,TRUE,TRUE,republican,Arizona,,1505372,0.76739035,1961677
+2004,,Stuart Starky,FALSE,,democrat,Arizona,,404507,0.206204691,1961677
+2004,,Blanche L. Lincoln,TRUE,,democrat,Arkansas,,580973,0.558977783,1039349
+2004,,Jim Holt,FALSE,,republican,Arkansas,,458036,0.440695089,1039349
+2004,,Barbara Boxer,TRUE,,democrat,California,,6955728,0.577081039,12053295
+2004,,Bill Jones,FALSE,,republican,California,,4555922,0.377981457,12053295
+2004,,Ken Salazar,TRUE,,democrat,Colorado,,1081188,0.513026033,2107472
+2004,,Pete Coors,FALSE,,republican,Colorado,,980668,0.465329077,2107472
+2004,,Christopher J. Dodd,TRUE,,democrat,Connecticut,,945347,0.663528987,1424726
+2004,,Jack C. Orchulli,FALSE,,republican,Connecticut,,457749,0.321289146,1424726
+2004,,Mel Martinez,TRUE,,republican,Florida,,3672864,0.494335989,7429894
+2004,,Betty Castor,FALSE,,democrat,Florida,,3590201,0.483210258,7429894
+2004,,Johnny Isakson,TRUE,,republican,Georgia,,1864202,0.578768394,3220981
+2004,,Denise L. Majette,FALSE,,democrat,Georgia,,1287690,0.39978193,3220981
+2004,,Daniel K. Inouye,TRUE,,democrat,Hawaii,,313629,0.755101156,415347
+2004,,Cam Cavasso,FALSE,,republican,Hawaii,,87172,0.209877524,415347
+2004,,Mike Crapo,TRUE,,republican,Idaho,,499796,0.991792543,503932
+2004,,Barack Obama,TRUE,,democrat,Illinois,,3597456,0.699687252,5141520
+2004,,Alan Keyes,FALSE,,republican,Illinois,,1390690,0.27048227,5141520
+2004,,Evan Bayh,TRUE,,democrat,Indiana,,1496976,0.616487792,2428233
+2004,,Marvin Scott,FALSE,,republican,Indiana,,903913,0.372251345,2428233
+2004,,Charles E. Grassley,TRUE,,republican,Iowa,,1038175,0.701835687,1479228
+2004,,Arthur Small,FALSE,,democrat,Iowa,,412365,0.278770413,1479228
+2004,,Sam Brownback,TRUE,,republican,Kansas,,780863,0.691627798,1129022
+2004,,Lee Jones,FALSE,,democrat,Kansas,,310337,0.274872412,1129022
+2004,,Jim Bunning,TRUE,,republican,Kentucky,,873507,0.506568226,1724362
+2004,,Daniel Mongiardo,FALSE,,democrat,Kentucky,,850855,0.493431774,1724362
+2004,,David Vitter,TRUE,,republican,Louisiana,,943014,0.510273498,1848056
+2004,,Christopher John,FALSE,,democrat,Louisiana,,542150,0.293362322,1848056
+2004,,Barbara A. Mikulski,TRUE,,democrat,Maryland,,1504691,0.64803433,2321931
+2004,,E. J. Pipkin,FALSE,,republican,Maryland,,783055,0.33724301,2321931
+2004,,Christopher S. Bond,TRUE,,republican,Missouri,,1518089,0.560925169,2706402
+2004,,Nancy Farmer,FALSE,,democrat,Missouri,,1158261,0.427970789,2706402
+2004,,Harry Reid,TRUE,,democrat,Nevada,,494805,0.610819092,810068
+2004,,Richard Ziser,FALSE,,republican,Nevada,,284640,0.351377909,810068
+2004,,Judd Gregg,TRUE,,republican,New Hampshire,,434847,0.661780954,657086
+2004,,Doris R. Haddock,FALSE,,democrat,New Hampshire,,221549,0.337168955,657086
+2004,,Charles E. Schumer,TRUE,,democrat,New York,,4384907,0.588750558,7447818
+2004,,Howard Mills,FALSE,,republican,New York,,1625069,0.218193973,7447818
+2004,,Richard Burr,TRUE,,republican,North Carolina,,1791450,0.515958436,3472082
+2004,,Erskine Bowles,FALSE,,democrat,North Carolina,,1632527,0.470186764,3472082
+2004,,Byron L. Dorgan,TRUE,,democrat,North Dakota,,212143,0.682799264,310696
+2004,,Mike Liffrig,FALSE,,republican,North Dakota,,98553,0.317200736,310696
+2004,,George V. Voinovich,TRUE,,republican,Ohio,,3464356,0.638494105,5425823
+2004,,Eric D. Fingerhut,FALSE,,democrat,Ohio,,1961171,0.361451341,5425823
+2004,,Tom Coburn,TRUE,,republican,Oklahoma,,763433,0.527653254,1446846
+2004,,Brad Carson,FALSE,,democrat,Oklahoma,,596750,0.412448872,1446846
+2004,,Ron Wyden,TRUE,,democrat,Oregon,,1128728,0.633920979,1780550
+2004,,Al King,FALSE,,republican,Oregon,,565254,0.317460335,1780550
+2004,,Arlen Specter,TRUE,,republican,Pennsylvania,,2925080,0.526178225,5559105
+2004,,Joseph M. Hoeffel,FALSE,,democrat,Pennsylvania,,2334126,0.419874422,5559105
+2004,,Jim DeMint,TRUE,,republican,South Carolina,,857167,0.536661489,1597221
+2004,,Inez Tenenbaum,FALSE,,democrat,South Carolina,,704384,0.441005972,1597221
+2004,,John Thune,TRUE,,republican,South Dakota,,197848,0.505761935,391188
+2004,,Tom Daschle,FALSE,,democrat,South Dakota,,193340,0.494238065,391188
+2004,,Robert F. Bennett,TRUE,,republican,Utah,,626640,0.687311758,911726
+2004,,R. Paul Van Dam,FALSE,,democrat,Utah,,258955,0.284027219,911726
+2004,,Patrick J. Leahy,TRUE,,democrat,Vermont,,216972,0.70627067,307208
+2004,,Jack McMullen,FALSE,,republican,Vermont,,75398,0.245429807,307208
+2004,,Patty Murray,TRUE,,democrat,Washington,,1549708,0.549804853,2818651
+2004,,George R. Nethercutt,FALSE,,republican,Washington,,1204584,0.427361883,2818651
+2004,,Russel D. Feingold,TRUE,,democrat,Wisconsin,,1632697,0.553504831,2949743
+2004,,Tim Michels,FALSE,,republican,Wisconsin,,1301183,0.441117413,2949743
+2002,,Jeff Sessions,TRUE,,republican,Alabama,,792561,0.58577053,1353023
+2002,,Susan Parker,FALSE,,democrat,Alabama,,538878,0.398277043,1353023
+2002,,Ted Stevens,TRUE,,republican,Alaska,,179438,0.781701431,229548
+2002,,Frank Vondersaar,FALSE,,democrat,Alaska,,24133,0.105132696,229548
+2002,,Mark Pryor,TRUE,,democrat,Arkansas,,433386,0.538956202,804121
+2002,,Tim Hutchinson,FALSE,,republican,Arkansas,,370735,0.461043798,804121
+2002,,Wayne Allard,TRUE,,republican,Colorado,,717893,0.506957224,1416082
+2002,,Tom Strickland,FALSE,,democrat,Colorado,,648130,0.457692422,1416082
+2002,,Joseph R. Biden Jr.,TRUE,,democrat,Delaware,,135253,0.582199093,232314
+2002,,Raymond J. Clatworthy,FALSE,,republican,Delaware,,94793,0.408038259,232314
+2002,,Saxby Chambliss,TRUE,,republican,Georgia,,1071352,0.527342927,2031604
+2002,,Max Cleland,FALSE,,democrat,Georgia,,932422,0.458958537,2031604
+2002,,Larry E. Craig,TRUE,,republican,Idaho,,266215,0.65161892,408544
+2002,,Alan Blinken,FALSE,,democrat,Idaho,,132975,0.325485137,408544
+2002,,Richard J. Durbin,TRUE,,democrat,Illinois,,2103766,0.603342672,3486851
+2002,,Jim Durkin,FALSE,,republican,Illinois,,1325703,0.380200645,3486851
+2002,,Tom Harkin,TRUE,,democrat,Iowa,,554278,0.541776507,1023075
+2002,,Greg Ganske,FALSE,,republican,Iowa,,447892,0.437789996,1023075
+2002,,Pat Roberts,TRUE,,republican,Kansas,,641075,0.82522366,776850
+2002,,Mitch McConnell,TRUE,,republican,Kentucky,,731679,0.646752048,1131313
+2002,,Lois Combs Weinberg,FALSE,,democrat,Kentucky,,399634,0.353247952,1131313
+2002,,Mary L. Landrieu,TRUE,,democrat,Louisiana,,638654,0.257352731,2481629
+2002,,Suzanne Haik Terrell,FALSE,,republican,Louisiana,,596642,0.240423528,2481629
+2002,,Susan M. Collins,TRUE,,republican,Maine,,295041,0.584356475,504899
+2002,,Chellie Pingree,FALSE,,democrat,Maine,,209858,0.415643525,504899
+2002,,John F. Kerry,TRUE,,democrat,Massachusetts,,1605976,0.723314542,2220301
+2002,,Michael E. Cloud,FALSE,,libertarian,Massachusetts,,369807,0.166557147,2220301
+2002,,Carl Levin,TRUE,,democrat,Michigan,,1896614,0.606085028,3129287
+2002,,Andrew Raczkowski,FALSE,,republican,Michigan,,1185545,0.378854672,3129287
+2002,,Norm Coleman,TRUE,,republican,Minnesota,,1116697,0.495288603,2254639
+2002,,Walter F. Mondale,FALSE,,democrat,Minnesota,,1067246,0.473355601,2254639
+2002,,Thad Cochran,TRUE,,republican,Mississippi,,533269,0.845794178,630495
+2002,,Shawn O'Hara,FALSE,,reform,Mississippi,,97226,0.154205822,630495
+2002,,Jim Talent,TRUE,,republican,Missouri,,935032,0.497987878,1877620
+2002,,Jean Carnahan,FALSE,,democrat,Missouri,,913778,0.486668229,1877620
+2002,,Max Baucus,TRUE,,democrat,Montana,,204853,0.62735004,326537
+2002,,Mike Taylor,FALSE,,republican,Montana,,103611,0.31730248,326537
+2002,,Chuck Hagel,TRUE,,republican,Nebraska,,397438,0.827621679,480217
+2002,,Charlie A. Matulka,FALSE,,democrat,Nebraska,,70290,0.146371328,480217
+2002,,John E. Sununu,TRUE,,republican,New Hampshire,,227229,0.508188802,447135
+2002,,Jeanne Shaheen,FALSE,,democrat,New Hampshire,,207478,0.46401646,447135
+2002,,Frank R. Lautenberg,TRUE,,democrat,New Jersey,,1138193,0.538763062,2112604
+2002,,Douglas R. Forrester,FALSE,,republican,New Jersey,,928439,0.439476116,2112604
+2002,,Pete V. Domenici,TRUE,,republican,New Mexico,,314193,0.650427694,483056
+2002,,Gloria Tristani,FALSE,,democrat,New Mexico,,168863,0.349572306,483056
+2002,,Elizabeth H. Dole,TRUE,,republican,North Carolina,,1248664,0.5356358,2331181
+2002,,Erskine B. Bowles,FALSE,,democrat,North Carolina,,1047983,0.449550249,2331181
+2002,,James M. Inhofe,TRUE,,republican,Oklahoma,,583579,0.573021649,1018424
+2002,,David Walters,FALSE,,democrat,Oklahoma,,369789,0.363099259,1018424
+2002,,Gordon Smith,TRUE,,republican,Oregon,,712287,0.562085856,1267221
+2002,,Bill Bradbury,FALSE,,democrat,Oregon,,501898,0.396061934,1267221
+2002,,Jack Reed,TRUE,,democrat,Rhode Island,,253774,0.784264885,323582
+2002,,Robert G. Tingle,FALSE,,republican,Rhode Island,,69808,0.215735115,323582
+2002,,Lindsey O. Graham,TRUE,,republican,South Carolina,,600010,0.544023458,1102912
+2002,,Alex Sanders,FALSE,,democrat,South Carolina,,487359,0.441883849,1102912
+2002,,Tim Johnson,TRUE,,democrat,South Dakota,,167481,0.49623853,337501
+2002,,John Thune,FALSE,,republican,South Dakota,,166949,0.494662238,337501
+2002,,Lamar Alexander,TRUE,,republican,Tennessee,,891498,0.542791422,1642432
+2002,,Bob Clement,FALSE,,democrat,Tennessee,,728232,0.443386393,1642432
+2002,,John Cornyn,TRUE,,republican,Texas,,2496243,0.552998751,4514012
+2002,,Ron Kirk,FALSE,,democrat,Texas,,1955758,0.433263802,4514012
+2002,,John W. Warner,TRUE,,republican,Virginia,,1229894,0.82575254,1489422
+2002,,Nancy B. Spannaus,FALSE,,independent,Virginia,,145102,0.097421684,1489422
+2002,,John D. Rockefeller IV,TRUE,,democrat,West Virginia,,275281,0.631113546,436183
+2002,,Jay Wolfe,FALSE,,republican,West Virginia,,160902,0.368886454,436183
+2002,,Michael B. Enzi,TRUE,,republican,Wyoming,,133710,0.729539502,183280
+2002,,Joyce Jansa Corcoran,FALSE,,democrat,Wyoming,,49570,0.270460498,183280
+2000,,Jon Kyl,TRUE,,republican,Arizona,,1108196,0.793225279,1397076
+2000,,William Toel,FALSE,,independent,Arizona,,109230,0.078184723,1397076
+2000,,Dianne Feinstein,TRUE,,democrat,California,,5932522,0.558428172,10623608
+2000,,Tom Campbell,FALSE,,republican,California,,3886853,0.365869392,10623608
+2000,,Joseph I. Lieberman,TRUE,,democrat,Connecticut,,828902,0.632141122,1311261
+2000,,Phil Giordano,FALSE,,republican,Connecticut,,448077,0.341714579,1311261
+2000,,Thomas R. Carper,TRUE,,democrat,Delaware,,181566,0.555259593,326993
+2000,,"William V. Roth, Jr.",FALSE,,republican,Delaware,,142891,0.43698489,326993
+2000,,Bill Nelson,TRUE,,democrat,Florida,,2989487,0.510436112,5856731
+2000,,Bill McCollum,FALSE,,republican,Florida,,2705348,0.461921164,5856731
+2000,,Zell Miller,TRUE,,democrat (not identified on ballot),Georgia,,1413224,0.585005938,2415743
+2000,,Mack F. Mattingly,FALSE,,republican (not identified on ballot),Georgia,,920478,0.381033082,2415743
+2000,,Daniel K. Akaka,TRUE,,democrat,Hawaii,,251215,0.726846882,345623
+2000,,John Carroll,FALSE,,republican,Hawaii,,84701,0.245067603,345623
+2000,,Richard G. Lugar,TRUE,,republican,Indiana,,1427944,0.665643301,2145209
+2000,,David L. Johnson,FALSE,,democrat,Indiana,,683273,0.318511157,2145209
+2000,,Olympia J. Snowe,TRUE,,republican,Maine,,437689,0.689412984,634872
+2000,,Mark W. Lawrence,FALSE,,democrat,Maine,,197183,0.310587016,634872
+2000,,Paul S. Sarbanes,TRUE,,democrat,Maryland,,1230013,0.631780915,1946898
+2000,,Paul H. Rappaport,FALSE,,republican,Maryland,,715178,0.367342306,1946898
+2000,,Edward M. Kennedy,TRUE,,democrat,Massachusetts,,1889494,0.691097596,2734048
+2000,,Jack E. Robinson III,FALSE,,republican,Massachusetts,,334341,0.122287904,2734048
+2000,,Debbie Stabenow,TRUE,,democrat,Michigan,,2061952,0.494747564,4167685
+2000,,Spencer Abraham,FALSE,,republican,Michigan,,1994693,0.478609348,4167685
+2000,,Mark Dayton,TRUE,,democratic-farmer-labor,Minnesota,,1181553,0.488341903,2419520
+2000,,Rod Grams,FALSE,,republican,Minnesota,,1047474,0.432926366,2419520
+2000,,Trent Lott,TRUE,,republican,Mississippi,,654941,0.658798927,994144
+2000,,"Troy D. Brown, Sr.",FALSE,,democrat,Mississippi,,314090,0.315940145,994144
+2000,,Mel Carnahan,TRUE,,democrat,Missouri,,1191812,0.504665932,2361586
+2000,,John Ashcroft,FALSE,,republican,Missouri,,1142852,0.483934102,2361586
+2000,,Conrad Burns,TRUE,,republican,Montana,,208082,0.505542989,411601
+2000,,Brian Schweitzer,FALSE,,democrat,Montana,,194430,0.472374946,411601
+2000,,Ben Nelson,TRUE,,democrat,Nebraska,,353093,0.509992056,692350
+2000,,Don Stenberg,FALSE,,republican,Nebraska,,337977,0.488159168,692350
+2000,,John Ensign,TRUE,,republican,Nevada,,330687,0.550433107,600776
+2000,,Ed Bernstein,FALSE,,democrat,Nevada,,238260,0.396587081,600776
+2000,,Jon S. Corzine,TRUE,,democrat,New Jersey,,1511237,0.501129437,3015662
+2000,,Bob Franks,FALSE,,republican,New Jersey,,1420267,0.470963589,3015662
+2000,,Jeff Bingaman,TRUE,,democrat,New Mexico,,363744,0.617010955,589526
+2000,,Bill Redmond,FALSE,,republican,New Mexico,,225517,0.382539532,589526
+2000,,Hillary Rodham Clinton,TRUE,,democrat,New York,,3562415,0.511866093,6959662
+2000,,Rick Lazio,FALSE,,republican,New York,,2724589,0.391482948,6959662
+2000,,Kent Conrad,TRUE,,democrat,North Dakota,,176470,0.613725442,287539
+2000,,Duane Sand,FALSE,,republican,North Dakota,,111069,0.386274558,287539
+2000,,Mike DeWine,TRUE,,republican,Ohio,,2665512,0.599152895,4448801
+2000,,Ted Celeste,FALSE,,democrat,Ohio,,1595066,0.358538402,4448801
+2000,,Rick Santorum,TRUE,,republican,Pennsylvania,,2481962,0.52416076,4735116
+2000,,Ron Klink,FALSE,,democrat,Pennsylvania,,2154908,0.455090857,4735116
+2000,,Lincoln D. Chafee,TRUE,,republican,Rhode Island,,222588,0.568765284,391353
+2000,,Robert A. Weygand,FALSE,,democrat,Rhode Island,,161023,0.411452065,391353
+2000,,Bill Frist,TRUE,,republican,Tennessee,,1255444,0.650956931,1928613
+2000,,Jeff Clark,FALSE,,democrat,Tennessee,,621152,0.322071872,1928613
+2000,,Kay Bailey Hutchison,TRUE,,republican,Texas,,4078954,0.650762193,6267964
+2000,,Gene Kelly,FALSE,,democrat,Texas,,2025024,0.323075244,6267964
+2000,,Orrin G. Hatch,TRUE,,republican,Utah,,504803,0.655840427,769704
+2000,,Scott N. Howell,FALSE,,democrat,Utah,,242569,0.315145822,769704
+2000,,James M. Jeffords,TRUE,,republican,Vermont,,189133,0.655573657,288500
+2000,,Ed Flanagan,FALSE,,democrat,Vermont,,73352,0.254253033,288500
+2000,,George F. Allen,TRUE,,republican,Virginia,,1420460,0.522554346,2718301
+2000,,Charles S. Robb,FALSE,,democrat,Virginia,,1296093,0.476802606,2718301
+2000,,Maria Cantwell,TRUE,,democrat,Washington,,1199437,0.487302849,2461379
+2000,,Slade Gorton,FALSE,,republican,Washington,,1197208,0.486397259,2461379
+2000,,Robert C. Byrd,TRUE,,democrat,West Virginia,,469215,0.777519276,603477
+2000,,David T. Gallaher,FALSE,,republican,West Virginia,,121635,0.201556977,603477
+2000,,Herb Kohl,TRUE,,democrat,Wisconsin,,1563238,0.615427921,2540083
+2000,,John Gillespie,FALSE,,republican,Wisconsin,,940744,0.370359551,2540083
+2000,,Craig Thomas,TRUE,,republican,Wyoming,,157622,0.737726939,213659
+2000,,Mel Logan,FALSE,,democrat,Wyoming,,47087,0.220383883,213659
